@@ -18,12 +18,12 @@ import {getFirestore} from "@firebase/firestore"
 import {getAuth} from "firebase/auth"
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCKtZ6Ey5y5LRGG7KVuBRfQQWB3b-JWC08",
-  authDomain: "mentor-auth-production.firebaseapp.com",
-  projectId: "mentor-auth-production",
-  storageBucket: "mentor-auth-production.appspot.com",
-  messagingSenderId: "709699046320",
-  appId: "1:709699046320:web:f18929b1f5e43c57386475"
+  apiKey: "AIz
+  authDomain: "mentor-aut
+  projectId: "mentor-auth-pr
+  storageBucket: "mentor-aut
+  messagingSenderId: "709699
+  appId: "1:70969904632
 };
 
 const app = initializeApp(firebaseConfig);
